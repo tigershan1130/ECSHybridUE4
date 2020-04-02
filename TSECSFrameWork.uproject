@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{3D11F730-4BB2-B68B-244E-129498B8A7C0}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TSECSFrameWork",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"ECS"
+			]
+		}
+	]
+}
